@@ -1,4 +1,3 @@
-#![allow(dead_code)]
 mod input;
 use std::{collections::HashMap, io, vec};
 
